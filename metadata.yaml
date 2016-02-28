@@ -1,0 +1,27 @@
+_repo: Venetianische-Epigramme_5326
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5326'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 18th century'
+- !lcc 'PT'
+title: Venetianische Epigramme
+url: http://www.gutenberg.org/ebooks/5326
